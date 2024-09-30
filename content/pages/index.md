@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     backgroundSize: full
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
